@@ -1,11 +1,11 @@
 ---
-collection: publications
-category: working paper
+collection: research
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'The Effects of Leader Visits on Interstate Conflicts'
+date: 2024-02-17
 excerpt: 'Leader Visits and Public Opinion'
-layout: single
-author_profile: true
+date: 2025
 ---
 
 - “The Effects of on Interstate Conflicts”
