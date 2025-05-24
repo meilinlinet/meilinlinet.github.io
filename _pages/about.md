@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to my website!"
+excerpt: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to my website!
 
 I am a PH.D candidate majoring political science at University of North Texas. I study international relations and comparative politics. 
 
