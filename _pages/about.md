@@ -6,8 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my website!
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a PH.D candidate majoring political science at University of North Texas. I study international relations and comparative politics. 
+
+My research interests lie at the intersection of international relations and comparative politics, with a paticular focus on leaders' foreign policy choices, public diplomacy, and interstate conflict. I examine how leaders shape and respond to economic challenges, the strategic role of public diplomacy during conflicts, and the broader economic influence of foreign capital in developing countries. 
+
+If you are interested in my working papers please feel free to contact me: [MeilinLi@my.unt.edu](mailto:MeilinLi@my.unt.edu)
+
 
 A data-driven personal website
 ======
