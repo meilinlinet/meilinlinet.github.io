@@ -1,5 +1,5 @@
 ---
-- “Understanding the effect of madman leaders on economic sanctions.” *International Interactions*, March 2025. [https://doi.org/10.1080/03050629.2025.2473355](https://doi.org/10.1080/03050629.2025.2473355)
+“Understanding the effect of madman leaders on economic sanctions.” *International Interactions*, March 2025. [https://doi.org/10.1080/03050629.2025.2473355](https://doi.org/10.1080/03050629.2025.2473355)
 title: "Understanding the effect of madman leaders on economic sanctions"
 collection: publications
 category: manuscripts
