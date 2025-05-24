@@ -77,7 +77,7 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-Publication_category:
+publication_category:
   books:
     title: 'Books'
   manuscripts:
