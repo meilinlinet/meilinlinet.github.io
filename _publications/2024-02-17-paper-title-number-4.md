@@ -1,6 +1,9 @@
 ---
-title: "Working Papers"
-permalink: /working/
+collection: publications
+category: working paper
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'The Effects of Leader Visits on Interstate Conflicts'
+excerpt: 'Leader and Public Opinion'
 layout: single
 author_profile: true
 ---
