@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "4.png"
+  avatar           : "5.png"
   name             : "Meilin Li"
   pronouns         : # example: "she/her"  
   bio              : "PH.D candidate at University of North Texas"
