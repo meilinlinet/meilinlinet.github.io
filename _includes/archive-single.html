@@ -30,15 +30,18 @@
     <h2 class="archive__item-title" itemprop="headline">
         <li>{{ post.citation }}</li>
       </h2>
-    -->
+-->
+    {% if title == "Journal Articles" %}
     <p>
       <li>
-        {{post.publishedyear}}
+        {{post.publishedyear}}.
         <a href="{{post.paperurl}}">{{post.title}}</a> 
         <b><i>{{post.journalname}}</i></b> 
         {{post.journalissue}}</b>: {{post.pagenumbers}}
       </li>
     </p>
+
+    {% endif %}
 
     
       {% if post.read_time %}
