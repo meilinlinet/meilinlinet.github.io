@@ -27,10 +27,9 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-        <li>{{ post.citation }}</li>
+        <li>{{ title }}</li>
       </h2>
     
-    {% if post.title == "Journal Articles" %}
     <p>
       <li>
         {{post.publishedyear}}.
@@ -39,9 +38,6 @@
         {{post.journalissue}}</b>: {{post.pagenumbers}}
       </li>
     </p>
-
-    {% endif %}
-
     
       {% if post.read_time %}
         <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
