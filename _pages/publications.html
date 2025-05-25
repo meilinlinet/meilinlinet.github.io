@@ -20,9 +20,13 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = false %}
-      {% endunless %}
+        <h2 class="archive__item-title" itemprop="headline">
+  {% if post.link %}
+    <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+  {% else %}
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+  {% endif %}
+</h2>
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
