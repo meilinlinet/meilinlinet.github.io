@@ -1,5 +1,5 @@
 ---
-title: "Understanding the effect of madman leaders on economic sanctions"
+title: "[Understanding the effect of madman leaders on economic sanctions](https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355)"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
