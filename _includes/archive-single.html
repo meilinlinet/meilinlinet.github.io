@@ -29,7 +29,8 @@
 <!--     <h2 class="archive__item-title" itemprop="headline">
         <li>{{ title }}</li>
       </h2> -->
-    
+
+    {% if post.category == "manuscripts" %}
     <p>
       <li>
         {{post.publishedyear}}.
@@ -38,6 +39,9 @@
         {{post.journalissue}}</b>: {{post.pagenumbers}}
       </li>
     </p>
+    {% else %}
+      <li>{{title}}</li>
+    {% endif %}
     
     
       {% if post.read_time %}
