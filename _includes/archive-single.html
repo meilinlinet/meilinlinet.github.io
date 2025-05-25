@@ -31,14 +31,14 @@
         <li>{{ post.citation }}</li>
       </h2>
     -->
-    <h2>
+    <p>
       <li>
         {{post.publishedyear}}
         <a href="{{post.paperurl}}">{{post.title}}</a> 
-        <i>{{post.journalname}}</i> 
-        {{post.journalissue}} : {{post.pagenumbers}}
+        <b></b><i>{{post.journalname}}</i> 
+        {{post.journalissue}}</b>: {{post.pagenumbers}}
       </li>
-    </h2>
+    </p>
       
       {% if post.read_time %}
         <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
