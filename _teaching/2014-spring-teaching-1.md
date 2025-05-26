@@ -7,7 +7,7 @@ author_profile: true
 
 ## Course Instructor
 
-- **International Relations**, SPHERE Institute in Thailand, Spring 2025
+- **International Relations**, SPHERE Institute in Thailand (Online), Spring 2025
 
 ## Teaching Assistant (TA)
 
