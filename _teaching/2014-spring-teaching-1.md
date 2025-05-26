@@ -5,10 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
+## Course Instructor
 
-- **Course Name 1**, University, Semester (Year)
-- **Course Name 2**, University, Semester (Year)
+- **International Relations**, SPHERE Institute in Thailand, Spring (2025)
 
 ## Teaching Assistant (TA)
 
