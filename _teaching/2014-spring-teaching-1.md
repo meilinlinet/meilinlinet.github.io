@@ -7,7 +7,7 @@ author_profile: true
 
 ## Course Instructor
 
-- **International Relations**, SPHERE Institute in Thailand (Online), Spring 2025
+- International Relations, SPHERE Institute in Thailand (Online), Spring 2025
 
 ## Teaching Assistant
 
@@ -23,6 +23,6 @@ author_profile: true
 ## Guest Lectures
 
 ### University of North Texas
-- **Citations and Plagiarism**, Political Science Research Methods, September 13, 2024
-- **Chinese Public Opinion**, Contemporary International Security, February 27, 2024
-- **US Foreign Policy**, US Political Behavior and Policy, December 5, 2023
+- Citations and Plagiarism, Political Science Research Methods, September 13, 2024
+- Chinese Public Opinion, Contemporary International Security, February 27, 2024
+- US Foreign Policy, US Political Behavior and Policy, December 5, 2023
