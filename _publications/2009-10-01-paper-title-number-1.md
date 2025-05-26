@@ -8,7 +8,7 @@ date: 2025-03-13
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355](https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355)'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355'
 citation: '2025. &quot;[Understanding the effect of madman leaders on economic sanctions](https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355)&quot;'
 pagenumbers: '320–343'
 journalname: 'International Interactions'
