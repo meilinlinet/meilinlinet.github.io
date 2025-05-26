@@ -4,7 +4,8 @@ collection: teaching
 type: "International Relations"
 permalink: /teaching/2014-spring-teaching-1
 venue: "SPHERE Institute"
-date: Spring 2025
+#date:
+seaon: "Spring 2025"
 location: "Thailand"
 ---
 
