@@ -7,14 +7,22 @@ author_profile: true
 
 ## Course Instructor
 
-- **International Relations**, SPHERE Institute in Thailand, Spring (2025)
+- **International Relations**, SPHERE Institute in Thailand, Spring 2025
 
 ## Teaching Assistant (TA)
 
-- **Course Name 3**, University, Semester (Year)
-- **Course Name 4**, University, Semester (Year)
+### 2021-2025. University of North Texas
+- **Political Science Research Methods**
+- **US Political Behavior and Policy**
+- **US and Texas Constitutions and Institutions**
+- **American Legal Systems**
+
+### 2021. University of Texas at Dallas
+- **US History Survey from Civil War**
 
 ## Guest Lectures
 
-- **Lecture Title 1**, Course Name, University, Date
-- **Lecture Title 2**, Event/Workshop, Date
+### University of North Texas
+- **Citations and Plagiarism**, Political Science Research Methods, September 13, 2024
+- **Chinese Public Opinion**, Contemporary International Security, February 27, 2024
+- **US Foreign Policy**, US Political Behavior and Policy, December 5, 2023
