@@ -12,13 +12,13 @@ author_profile: true
 ## Teaching Assistant
 
 ### 2021-2025. University of North Texas
-- **Political Science Research Methods**
-- **US Political Behavior and Policy**
-- **US and Texas Constitutions and Institutions**
-- **American Legal Systems**
+- Political Science Research Methods
+- US Political Behavior and Policy
+- US and Texas Constitutions and Institutions
+- American Legal Systems
 
 ### 2021. University of Texas at Dallas
-- **US History Survey from Civil War**
+- US History Survey from Civil War
 
 ## Guest Lectures
 
