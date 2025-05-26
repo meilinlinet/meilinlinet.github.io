@@ -9,7 +9,7 @@ author_profile: true
 
 - International Relations, SPHERE Institute in Thailand (Online), Spring 2025
 
-## Guest Lectures
+## Guest Lecture
 
 ### University of North Texas
 - "Citations and Plagiarism" – Political Science Research Methods: (September 13, 2024)
