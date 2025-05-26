@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Effect of Madman Leaders on Economic Sanctions"
+title: '"Understanding the Effect of Madman Leaders on Economic Sanctions"'
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
@@ -9,7 +9,7 @@ venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355'
 bibtexurl: 'https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355'
-citation: '2025. &quot;[Understanding the effect of madman leaders on economic sanctions](https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355)&quot;'
+citation: '2025. "&quot;[Understanding the effect of madman leaders on economic sanctions](https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2473355)&quot;"'
 pagenumbers: '320–343'
 journalname: 'International Interactions'
 journalissue: '51(2)'
