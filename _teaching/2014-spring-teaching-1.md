@@ -9,7 +9,7 @@ author_profile: true
 
 - **International Relations**, SPHERE Institute in Thailand (Online), Spring 2025
 
-## Teaching Assistant (TA)
+## Teaching Assistant
 
 ### 2021-2025. University of North Texas
 - **Political Science Research Methods**
