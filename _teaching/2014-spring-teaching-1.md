@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Course Instructors"
 collection: teaching
-type: "Undergraduate course"
+type: "International Relations"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "SPHERE Institute"
+date: Spring 2025
+location: "Thailand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+#This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
