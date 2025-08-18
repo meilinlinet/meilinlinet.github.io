@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Course Instructor
-- Political Science Research Methods, University of North Texas, Fall 2025 (Scheduled)
+- Political Science Research Methods, University of North Texas, Fall 2025
 - International Relations, SPHERE Institute in Thailand (Online), Spring 2025
 
 ## Guest Lecture
