@@ -19,7 +19,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-### 2021-2025. University of North Texas
+### 2021-2026. University of North Texas
 - Political Science Research Methods
 - US Political Behavior and Policy
 - US and Texas Constitutions and Institutions
