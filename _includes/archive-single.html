@@ -4,35 +4,17 @@ layout: archive
 title: "Research"
 permalink: /research/
 ---
-<!DOCTYPE html>
-<html>
-<head>
-    {% include base_path.html %}
-    <title>{{ page.title }}</title>
-    {% if page.teaser %}
-        <meta name="description" content="{{ page.teaser }}" />
-    {% endif %}
-</head>
-<body>
-    <h1>{{ page.title }}</h1>
-    
-<div class="manuscripts">
-        <h2>Journal Articles</h2>
-    <ul>
-        {% for post in site.publications %}
-            {% if post.category == "manuscripts" %}
-                 <li>
+{% if post.category == "manuscripts" %}
+<p>
+  <li>
     {{post.publishedyear}}.
     <a href="{{post.paperurl}}">{{post.title}}</a> 
     <b><i>{{post.journalname}}</i></b> 
     {{post.journalissue}}</b>: {{post.pagenumbers}}
   </li>
- {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+</p>
+{% endif %}
 
-    
     <div class="conferences">
         <h2>Conferences</h2>
         {% for conference in page.conferences %}
