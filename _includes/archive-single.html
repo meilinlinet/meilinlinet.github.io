@@ -30,18 +30,13 @@
         <li>{{ title }}</li>
       </h2> -->
 
-    {% if post.category == "manuscripts" %}
-    <p>
-      <li>
-        {{post.publishedyear}}.
-        <a href="{{post.paperurl}}">{{post.title}}</a> 
-        <b><i>{{post.journalname}}</i></b> 
-        {{post.journalissue}}</b>: {{post.pagenumbers}}
-      </li>
-    </p>
-    {% else %}
-      <li>{{title}}</li>
-    {% endif %}
+   {% if post.category == "manuscripts" %}
+<p>
+  <li>
+    {{ post.citation }}
+  </li>
+</p>
+{% endif %}
     
     
       {% if post.read_time %}
