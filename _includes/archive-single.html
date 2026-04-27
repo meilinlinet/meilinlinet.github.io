@@ -37,6 +37,8 @@
     <a href="{{post.paperurl}}">{{post.title}}</a> 
     <b><i>{{post.journalname}}</i></b> 
     {{post.journalissue}}</b>: {{post.pagenumbers}}
+     {% if post.coauthors %}
+      (with {{ post.coauthors }})
   </li>
 </p>
 {% endif %}
