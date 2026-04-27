@@ -1,7 +1,54 @@
-{% if post.category == "conferences" %}
-<p>
-  <li>
-    {{ post.title }}
-  </li>
-</p>
-{% endif %}
+<!DOCTYPE html>
+<html>
+<head>
+    {% include base_path.html %}
+    <title>{{ page.title }}</title>
+    {% if page.teaser %}
+        <meta name="description" content="{{ page.teaser }}" />
+    {% endif %}
+</head>
+<body>
+    <h1>{{ page.title }}</h1>
+    
+    <div class="manuscripts">
+        <h2>Manuscripts</h2>
+        {% for manuscript in page.manuscripts %}
+            <div class="manuscript">
+                <h3>{{ manuscript.title }}</h3>
+                <p>{{ manuscript.abstract }}</p>
+                <a href="{{ manuscript.link }}">Download</a>
+            </div>
+        {% endfor %}
+    </div>
+
+    <div class="conferences">
+        <h2>Conferences</h2>
+        {% for conference in page.conferences %}
+            <div class="conference">
+                <h3>{{ conference.name }}</h3>
+                <p>Date: {{ conference.date }}</p>
+                <p>Location: {{ conference.location }}</p>
+                <a href="{{ conference.link }}">More Info</a>
+            </div>
+        {% endfor %}
+    </div>
+
+    <div class="citations">
+        <h2>Citations</h2>
+        <ul>
+            {% for citation in page.citations %}
+                <li>{{ citation }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="downloads">
+        <h2>Downloads</h2>
+        <ul>
+            {% for download in page.downloads %}
+                <li><a href="{{ download.link }}">{{ download.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
