@@ -33,7 +33,10 @@
    {% if post.category == "manuscripts" %}
 <p>
   <li>
-    {{ post.citation }}
+    {{post.publishedyear}}.
+    <a href="{{post.paperurl}}">{{post.title}}</a> 
+    <b><i>{{post.journalname}}</i></b> 
+    {{post.journalissue}}</b>: {{post.pagenumbers}}
   </li>
 </p>
 {% endif %}
