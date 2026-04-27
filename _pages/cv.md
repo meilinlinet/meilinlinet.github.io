@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <p>
-  <a href="/files/Meilin_Li_CV__.pdf" target="_blank" rel="noopener">View or download the full CV (PDF)</a>
+  <a href="/files/Meilin_Li_CV_04_26.pdf" target="_blank" rel="noopener">View or download the full CV (PDF)</a>
 </p>
 
-<embed src="/files/Meilin_Li_CV__.pdf" width="100%" height="1000px" type="application/pdf">
+<embed src="/files/Meilin_Li_CV_04_26.pdf" width="100%" height="1000px" type="application/pdf">
 
 <!-- 
 If your PDF is at a different URL, change the path above accordingly.
