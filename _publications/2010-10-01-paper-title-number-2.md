@@ -2,11 +2,10 @@
 title: '"The Effect of Sexual Violence on Chinese Foreign Direct Investment"'
 collection: publications
 category: manuscripts
-#permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-venue: 'Journal 1'
+venue: 'Asian Survey'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-citation: '2026. "&quot;The Effect of Sexual Violence on Chinese Foreign Direct Investment&quot;" Forthcoming in Asian Survey. (with Kelan (Lilly) Lu and Glen Biglaiser)'
+citation: '2026. "The Effect of Sexual Violence on Chinese Foreign Direct Investment" <i>Asian Survey</i> Forthcoming. (with Kelan (Lilly) Lu and Glen Biglaiser)'
 journalname: 'Asian Survey'
 publishedyear: 2026
 ---
