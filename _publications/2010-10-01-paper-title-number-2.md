@@ -8,7 +8,7 @@ excerpt:
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: ''
-citation:'2026. "The Effect of Sexual Violence on Chinese Foreign Direct Investment." Forthcoming in Asian Survey. (with Kelan (Lilly) Lu and Glen Biglaiser)'
+citation:'2026. "&quot;[The Effect of Sexual Violence on Chinese Foreign Direct Investment]&quot; Forthcoming in Asian Survey. (with Kelan (Lilly) Lu and Glen Biglaiser)"'
 journalname: 'Asian Survey'
 publishedyear: 2026
 ---
