@@ -36,7 +36,7 @@
       {{post.publishedyear}}.
     <a href="{{post.paperurl}}">{{post.title}}</a> 
     <b><i>{{post.journalname}}</i></b> 
-    {{post.journalissue}}</b>: {{post.pagenumbers}}
+    {{post.journalissue}}</b>{% if post.pagenumbers %}: {{post.pagenumbers}}{% endif %}
      {% if post.coauthors %}
       (with {{ post.coauthors }})
   </li>
