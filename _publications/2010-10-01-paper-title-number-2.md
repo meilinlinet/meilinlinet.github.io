@@ -5,6 +5,7 @@ category: manuscripts
 excerpt: ''
 venue: 'Asian Survey'
 citation: '2026. "The Effect of Sexual Violence on Chinese Foreign Direct Investment" <i>Asian Survey</i> Forthcoming. (with Kelan (Lilly) Lu and Glen Biglaiser)'
+pagenumbers: '320–343'
 journalname: 'Asian Survey'
 coauthors: 'forthcoming (with Kelan (Lilly) Lu and Glen Biglaiser)'
 publishedyear: 2026
